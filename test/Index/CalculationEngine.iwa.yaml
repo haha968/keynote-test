@@ -1,0 +1,319 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652382'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 2
+            - 6
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652386'
+        - '2652623'
+        - '2652624'
+        - '2652387'
+        type: 4000
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSCE.CalculationEngineArchive
+      dependencyTracker:
+        formulaOwnerDependencies:
+        - identifier: '2652386'
+        - identifier: '2652623'
+        formulaOwnerInfo:
+        - cellDependencies:
+            cellRecord:
+            - column: 0
+              containsAFormula: true
+              edges:
+                packedEdgeWithoutOwner:
+                - 16777216
+              row: 1
+          cellErrors: {}
+          formulaOwnerId:
+            uuidW0: 666
+            uuidW1: 0
+            uuidW2: 0
+            uuidW3: 0
+          rangeDependencies: {}
+          spanningColumnDependencies:
+            bodyRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+            totalRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+          spanningRowDependencies:
+            bodyRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+            totalRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+          volatileDependencies: {}
+          wholeOwnerDependencies: {}
+        - cellDependencies: {}
+          cellErrors: {}
+          formulaOwnerId:
+            uuidW0: 2050703683
+            uuidW1: 1329625940
+            uuidW2: 816068014
+            uuidW3: 3750074444
+          rangeDependencies: {}
+          spanningColumnDependencies:
+            bodyRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+            totalRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+          spanningRowDependencies:
+            bodyRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+            totalRangeForDeletedTable:
+              bottomRightColumn: 32767
+              bottomRightRow: 2147483647
+              topLeftColumn: 32767
+              topLeftRow: 2147483647
+          volatileDependencies: {}
+          wholeOwnerDependencies: {}
+        numberOfFormulas: '1'
+        ownerIdMap:
+          mapEntry:
+          - internalOwnerId: 0
+            ownerId:
+              uuidW0: 666
+              uuidW1: 0
+              uuidW2: 0
+              uuidW3: 0
+          - internalOwnerId: 1
+            ownerId:
+              uuidW0: 2050703683
+              uuidW1: 1329625940
+              uuidW2: 816068014
+              uuidW3: 3750074444
+      documentRandomSeed: '18141747178689401393'
+      documentTimestamp: 766655342.17104
+      documentTimezone: Asia/Shanghai
+      excelImportDateMode: DATE_MODE_1904_LEGACY
+      groupNodeMap: {}
+      headerNameManager:
+        identifier: '2652387'
+      namedReferenceManager:
+        identifier: '2652624'
+      uuidReferenceMap: {}
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652386'
+      messageInfos:
+      - objectReferences:
+        - '2652413'
+        type: 4008
+        version:
+        - 3
+        - 2
+        - 10
+    objects:
+    - _pbtype: TSCE.FormulaOwnerDependenciesArchive
+      baseOwnerUid:
+        lower: '466'
+        upper: '0'
+      cellDependencies:
+        cellRecord:
+        - column: 0
+          expandedEdges:
+            edgeWithoutOwnerColumns:
+            - 0
+            edgeWithoutOwnerRows:
+            - 0
+          row: 1
+      cellErrors: {}
+      formulaOwnerUid:
+        lower: '666'
+        upper: '0'
+      internalFormulaOwnerId: 0
+      ownerKind: 200
+      rangeDependencies: {}
+      spanningColumnDependencies:
+        bodyRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+        totalRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+      spanningRowDependencies:
+        bodyRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+        totalRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+      spillRangeSizes: {}
+      tiledCellDependencies:
+        cellRecordTiles:
+        - identifier: '2652413'
+      tiledRangeDependencies: {}
+      uuidReferences: {}
+      volatileDependencies:
+        volatileGeometryCellRefs: {}
+        volatileLocaleCells: {}
+        volatileRandomCells: {}
+        volatileRemoteDataCells: {}
+        volatileSheetTableNameCells: {}
+        volatileTimeCells: {}
+      wholeOwnerDependencies:
+        dependentCells: {}
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652413'
+      messageInfos:
+      - type: 4009
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSCE.CellRecordTileArchive
+      cellRecords:
+      - column: 0
+        expandedEdges:
+          edgeWithoutOwnerColumns:
+          - 0
+          edgeWithoutOwnerRows:
+          - 0
+        row: 1
+      internalOwnerId: 0
+      tileColumnBegin: 0
+      tileRowBegin: 0
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652623'
+      messageInfos:
+      - type: 4008
+        version:
+        - 3
+        - 2
+        - 10
+    objects:
+    - _pbtype: TSCE.FormulaOwnerDependenciesArchive
+      cellDependencies: {}
+      cellErrors: {}
+      formulaOwnerUid:
+        lower: '5710699930263961923'
+        upper: '16106447095361451438'
+      internalFormulaOwnerId: 1
+      ownerKind: 7
+      rangeDependencies: {}
+      spanningColumnDependencies:
+        bodyRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+        totalRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+      spanningRowDependencies:
+        bodyRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+        totalRangeForTable:
+          bottomRightColumn: 32767
+          bottomRightRow: 2147483647
+          topLeftColumn: 32767
+          topLeftRow: 2147483647
+      spillRangeSizes: {}
+      tiledCellDependencies: {}
+      tiledRangeDependencies: {}
+      uuidReferences: {}
+      volatileDependencies:
+        volatileGeometryCellRefs: {}
+        volatileLocaleCells: {}
+        volatileRandomCells: {}
+        volatileRemoteDataCells: {}
+        volatileSheetTableNameCells: {}
+        volatileTimeCells: {}
+      wholeOwnerDependencies:
+        dependentCells: {}
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652624'
+      messageInfos:
+      - objectReferences:
+        - '2652631'
+        type: 4003
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSCE.NamedReferenceManagerArchive
+      referenceTracker:
+        identifier: '2652631'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652631'
+      messageInfos:
+      - type: 4004
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSCE.TrackedReferenceStoreArchive
+      uuid:
+        uuidW0: 4230901554
+        uuidW1: 2588184991
+        uuidW2: 821165494
+        uuidW3: 1499187381
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652387'
+      messageInfos:
+      - type: 6366
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.HeaderNameMgrArchive
+      nrmOwnerUid:
+        lower: '0'
+        upper: '0'
+      ownerUid:
+        lower: '666'
+        upper: '0'

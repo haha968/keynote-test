@@ -1,0 +1,1189 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651844'
+      messageInfos:
+      - fieldInfos:
+        - objectReferences:
+          - '2651862'
+          - '2651852'
+          - '2651848'
+          path:
+            path:
+            - 45
+          type: Message
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651846'
+        - '2651862'
+        - '2651852'
+        - '2651867'
+        - '2651848'
+        - '2651858'
+        - '2651856'
+        - '2651845'
+        - '2652400'
+        - '2651107'
+        - '2651095'
+        type: 5
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideArchive
+      bodyListStyles:
+      - identifier: '2651095'
+      - identifier: '2651095'
+      - identifier: '2651095'
+      - identifier: '2651095'
+      - identifier: '2651095'
+      bodyParagraphStyles:
+      - identifier: '2651107'
+      - identifier: '2651107'
+      - identifier: '2651107'
+      - identifier: '2651107'
+      - identifier: '2651107'
+      bodyPlaceholder:
+        identifier: '2651852'
+      classicStylesheetRecord:
+        identifier: '2652400'
+      drawablesZOrder:
+      - identifier: '2651862'
+      - identifier: '2651852'
+      - identifier: '2651867'
+      - identifier: '2651848'
+      inDocument: true
+      instructionalTextMap:
+        instructionalTextForInfos:
+        - info:
+            identifier: '2651862'
+          instructionalText: Slide Subtitle
+        - info:
+            identifier: '2651852'
+          instructionalText: Slide bullet text
+        - info:
+            identifier: '2651848'
+          instructionalText: Slide Title
+      name: Title, Bullets & Photo
+      objectPlaceholder:
+        identifier: '2651858'
+      ownedDrawables:
+      - identifier: '2651862'
+      - identifier: '2651852'
+      - identifier: '2651867'
+      - identifier: '2651848'
+      sageTagToInfoMap:
+      - info:
+          identifier: '2651867'
+        tag: Media
+      - info:
+          identifier: '2651862'
+        tag: Text
+      slideNumberPlaceholder:
+        identifier: '2651856'
+      slideObjectsLayerWithTemplate: false
+      style:
+        identifier: '2651846'
+      thumbnailTextForBodyPlaceholder: 'Mauris pretium aliquet, lectus tincidunt.
+        Porttitor mollis imperdiet libero senectus.
+
+        Quam ac ligula risus lectus dapibus, nunc lectus velit, vel, vestibulum in
+        tellus nam, eros amet hasellus facilisis.
+
+        Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec.'
+      titlePlaceholder:
+        identifier: '2651848'
+      transition:
+        attributes:
+          animationAttributes:
+            animationType: Transition
+            delay: 0.0
+            duration: 1.0
+            effect: none
+            isAutomatic: false
+            randomNumberSeed: 1427117236
+            writingDirectionIsRtl: false
+      userDefinedGuideStorage:
+        identifier: '2651845'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651862'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 6
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651863'
+        - '2651864'
+        - '2651738'
+        - '2651861'
+        type: 2011
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.ShapeInfoArchive
+      deprecatedStorage:
+        identifier: '2651861'
+      isTextBox: true
+      ownedStorage:
+        identifier: '2651861'
+      super:
+        pathsource:
+          bezierPathSource:
+            naturalSize:
+              height: 73.60462
+              width: 770.0
+            path:
+              elements:
+              - points:
+                - x: 0.0
+                  y: -2.842171e-14
+                type: moveTo
+              - points:
+                - x: 770.0
+                  y: -2.842171e-14
+                type: lineTo
+              - points:
+                - x: 770.0
+                  y: 73.60462
+                type: lineTo
+              - points:
+                - x: 0.0
+                  y: 73.60462
+                type: lineTo
+              - type: closeSubpath
+              - points:
+                - x: 0.0
+                  y: -2.842171e-14
+                type: moveTo
+          horizontalFlip: false
+          verticalFlip: false
+        strokePatternOffsetDistance: 0.0
+        style:
+          identifier: '2651738'
+        super:
+          aspectRatioLocked: false
+          caption:
+            identifier: '2651863'
+          captionHidden: false
+          exteriorTextWrap:
+            alphaThreshold: 0.5
+            direction: 2
+            fitType: 1
+            isHtmlWrap: false
+            margin: 12.0
+            type: 4
+          geometry:
+            angle: 0.0
+            flags: 3
+            position:
+              x: 95.0
+              y: 186.84746
+            size:
+              height: 73.60462
+              width: 770.0
+          locked: false
+          parent:
+            identifier: '2651844'
+          title:
+            identifier: '2651864'
+          titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651863'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651864'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651861'
+      messageInfos:
+      - objectReferences:
+        - '2651101'
+        - '2651094'
+        type: 2001
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.StorageArchive
+      inDocument: true
+      styleSheet:
+        identifier: '2652388'
+      tableDropCapStyle:
+        entries:
+        - characterIndex: 0
+      tableListStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651094'
+      tableParaBidi:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaData:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStarts:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651101'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651852'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 1
+            - 6
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651853'
+        - '2651854'
+        - '2651724'
+        - '2651851'
+        type: 7
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.PlaceholderArchive
+      kind: kKindBodyPlaceholder
+      super:
+        deprecatedStorage:
+          identifier: '2651851'
+        isTextBox: true
+        ownedStorage:
+          identifier: '2651851'
+        super:
+          pathsource:
+            bezierPathSource:
+              naturalSize:
+                height: 650.1283
+                width: 770.0
+              path:
+                elements:
+                - points:
+                  - x: -5.934961e-15
+                    y: -1.2234022e-13
+                  type: moveTo
+                - points:
+                  - x: 770.0
+                    y: -1.2234022e-13
+                  type: lineTo
+                - points:
+                  - x: 770.0
+                    y: 650.1283
+                  type: lineTo
+                - points:
+                  - x: -5.934961e-15
+                    y: 650.1283
+                  type: lineTo
+                - type: closeSubpath
+                - points:
+                  - x: -5.934961e-15
+                    y: -1.2234022e-13
+                  type: moveTo
+            horizontalFlip: false
+            verticalFlip: false
+          strokePatternOffsetDistance: 0.0
+          style:
+            identifier: '2651724'
+          super:
+            aspectRatioLocked: false
+            caption:
+              identifier: '2651853'
+            captionHidden: false
+            exteriorTextWrap:
+              alphaThreshold: 0.5
+              direction: 2
+              fitType: 1
+              isHtmlWrap: false
+              margin: 12.0
+              type: 4
+            geometry:
+              angle: 0.0
+              flags: 3
+              position:
+                x: 95.0
+                y: 334.52792
+              size:
+                height: 650.1283
+                width: 770.0
+            locked: false
+            parent:
+              identifier: '2651844'
+            title:
+              identifier: '2651854'
+            titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651853'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651854'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651851'
+      messageInfos:
+      - objectReferences:
+        - '2651107'
+        - '2651095'
+        type: 2001
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.StorageArchive
+      inDocument: true
+      styleSheet:
+        identifier: '2652388'
+      tableDropCapStyle:
+        entries:
+        - characterIndex: 0
+      tableListStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651095'
+      tableParaBidi:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaData:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+        - characterIndex: 15
+          first: 1
+          second: 0
+        - characterIndex: 30
+          first: 2
+          second: 0
+        - characterIndex: 47
+          first: 3
+          second: 0
+        - characterIndex: 63
+          first: 4
+          second: 0
+      tableParaStarts:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651107'
+        - characterIndex: 15
+        - characterIndex: 30
+        - characterIndex: 47
+        - characterIndex: 63
+      text:
+      - 'Body Level One
+
+        Body Level Two
+
+        Body Level Three
+
+        Body Level Four
+
+        Body Level Five'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651867'
+      messageInfos:
+      - dataReferences:
+        - '5875'
+        - '5876'
+        fieldInfos:
+        - path:
+            path:
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651869'
+        - '2651872'
+        - '2651144'
+        - '2651871'
+        type: 3005
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSD.ImageArchive
+      data:
+        identifier: '5875'
+      flags: 3
+      interpretsUntaggedImageDataAsGeneric: false
+      mask:
+        identifier: '2651871'
+      naturalSize:
+        height: 2288.0
+        width: 1716.0
+      originalSize:
+        height: 1146.1284
+        width: 859.5963
+      style:
+        identifier: '2651144'
+      super:
+        accessibilityDescription: Bowl of pappardelle pasta with parsley butter, roasted
+          hazelnuts, and shaved parmesan cheese
+        aspectRatioLocked: true
+        caption:
+          identifier: '2651869'
+        captionHidden: false
+        exteriorTextWrap:
+          alphaThreshold: 0.5
+          direction: 2
+          fitType: 1
+          isHtmlWrap: false
+          margin: 12.0
+          type: 4
+        geometry:
+          angle: 0.0
+          flags: 3
+          position:
+            x: 960.0
+            y: -32.068115
+          size:
+            height: 1146.1284
+            width: 859.5963
+        locked: false
+        parent:
+          identifier: '2651844'
+        title:
+          identifier: '2651872'
+        titleHidden: false
+      thumbnailData:
+        identifier: '5876'
+      tracedPath:
+        elements:
+        - points:
+          - x: 0.0
+            y: 0.0
+          type: moveTo
+        - points:
+          - x: 1716.0
+            y: 0.0
+          type: lineTo
+        - points:
+          - x: 1716.0
+            y: 2288.0
+          type: lineTo
+        - points:
+          - x: 0.0
+            y: 2288.0
+          type: lineTo
+        - type: closeSubpath
+        - points:
+          - x: 0.0
+            y: 0.0
+          type: moveTo
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651869'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651872'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651871'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        type: 3006
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSD.MaskArchive
+      pathsource:
+        bezierPathSource:
+          naturalSize:
+            height: 880.96094
+            width: 859.5963
+          path:
+            elements:
+            - points:
+              - x: 0.0
+                y: 0.0
+              type: moveTo
+            - points:
+              - x: 100.0
+                y: 0.0
+              type: lineTo
+            - points:
+              - x: 100.0
+                y: 100.0
+              type: lineTo
+            - points:
+              - x: 0.0
+                y: 100.0
+              type: lineTo
+            - type: closeSubpath
+            - points:
+              - x: 0.0
+                y: 0.0
+              type: moveTo
+        horizontalFlip: false
+        verticalFlip: false
+      super:
+        aspectRatioLocked: false
+        captionHidden: false
+        exteriorTextWrap:
+          alphaThreshold: 0.5
+          direction: 2
+          fitType: 1
+          isHtmlWrap: false
+          margin: 12.0
+          type: 4
+        geometry:
+          angle: 0.0
+          flags: 3
+          position:
+            x: 0.0
+            y: 131.58374
+          size:
+            height: 880.96094
+            width: 859.5963
+        locked: false
+        parent:
+          identifier: '2651867'
+        titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651848'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 1
+            - 6
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651849'
+        - '2651850'
+        - '2651724'
+        - '2651847'
+        type: 7
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.PlaceholderArchive
+      kind: kKindTitlePlaceholder
+      super:
+        deprecatedStorage:
+          identifier: '2651847'
+        isTextBox: true
+        ownedStorage:
+          identifier: '2651847'
+        super:
+          pathsource:
+            bezierPathSource:
+              naturalSize:
+                height: 113.0
+                width: 770.0
+              path:
+                elements:
+                - points:
+                  - x: 1.2642817e-14
+                    y: -1.7323101e-14
+                  type: moveTo
+                - points:
+                  - x: 770.0
+                    y: -1.7323101e-14
+                  type: lineTo
+                - points:
+                  - x: 770.0
+                    y: 113.0
+                  type: lineTo
+                - points:
+                  - x: 1.2642817e-14
+                    y: 113.0
+                  type: lineTo
+                - type: closeSubpath
+                - points:
+                  - x: 1.2642817e-14
+                    y: -1.7323101e-14
+                  type: moveTo
+            horizontalFlip: false
+            verticalFlip: false
+          strokePatternOffsetDistance: 0.0
+          style:
+            identifier: '2651724'
+          super:
+            aspectRatioLocked: false
+            caption:
+              identifier: '2651849'
+            captionHidden: false
+            exteriorTextWrap:
+              alphaThreshold: 0.5
+              direction: 2
+              fitType: 1
+              isHtmlWrap: false
+              margin: 12.0
+              type: 4
+            geometry:
+              angle: 0.0
+              flags: 3
+              position:
+                x: 95.0
+                y: 85.0
+              size:
+                height: 113.0
+                width: 770.0
+            locked: false
+            parent:
+              identifier: '2651844'
+            title:
+              identifier: '2651850'
+            titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651849'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651850'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651847'
+      messageInfos:
+      - objectReferences:
+        - '2651100'
+        - '2651094'
+        type: 2001
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.StorageArchive
+      inDocument: true
+      styleSheet:
+        identifier: '2652388'
+      tableDropCapStyle:
+        entries:
+        - characterIndex: 0
+      tableListStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651094'
+      tableParaBidi:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaData:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStarts:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651100'
+      text:
+      - Slide Title
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651858'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 1
+            - 6
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651859'
+        - '2651860'
+        - '2651732'
+        - '2651857'
+        type: 7
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.PlaceholderArchive
+      kind: kKindObjectPlaceholder
+      super:
+        deprecatedStorage:
+          identifier: '2651857'
+        isTextBox: true
+        ownedStorage:
+          identifier: '2651857'
+        super:
+          pathsource:
+            bezierPathSource:
+              naturalSize:
+                height: 880.0
+                width: 860.0
+              path:
+                elements:
+                - points:
+                  - x: -2.2644785e-13
+                    y: -2.0471647e-13
+                  type: moveTo
+                - points:
+                  - x: 860.0
+                    y: -2.0471647e-13
+                  type: lineTo
+                - points:
+                  - x: 860.0
+                    y: 880.0
+                  type: lineTo
+                - points:
+                  - x: -2.2644785e-13
+                    y: 880.0
+                  type: lineTo
+                - type: closeSubpath
+                - points:
+                  - x: -2.2644785e-13
+                    y: -2.0471647e-13
+                  type: moveTo
+            horizontalFlip: false
+            verticalFlip: false
+          strokePatternOffsetDistance: 0.0
+          style:
+            identifier: '2651732'
+          super:
+            aspectRatioLocked: false
+            caption:
+              identifier: '2651859'
+            captionHidden: false
+            exteriorTextWrap:
+              alphaThreshold: 0.5
+              direction: 2
+              fitType: 1
+              isHtmlWrap: false
+              margin: 12.0
+              type: 4
+            geometry:
+              angle: 0.0
+              flags: 3
+              position:
+                x: 960.0
+                y: 100.0
+              size:
+                height: 880.0
+                width: 860.0
+            locked: false
+            parent:
+              identifier: '2651844'
+            title:
+              identifier: '2651860'
+            titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651859'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651860'
+      messageInfos:
+      - type: 3097
+        version:
+        - 10
+        - 1
+        - 0
+    objects:
+    - _pbtype: TSD.StandinCaptionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651857'
+      messageInfos:
+      - objectReferences:
+        - '2651733'
+        - '2651094'
+        type: 2001
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.StorageArchive
+      inDocument: true
+      styleSheet:
+        identifier: '2652388'
+      tableDropCapStyle:
+        entries:
+        - characterIndex: 0
+      tableListStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651094'
+      tableParaBidi:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaData:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStarts:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651733'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651856'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 1
+            - 6
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 12
+          unknownFieldRule: IgnoreAndPreserve
+        - path:
+            path:
+            - 1
+            - 1
+            - 1
+            - 13
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651729'
+        - '2651855'
+        type: 7
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.PlaceholderArchive
+      kind: kKindSlideNumberPlaceholder
+      super:
+        deprecatedStorage:
+          identifier: '2651855'
+        isTextBox: true
+        ownedStorage:
+          identifier: '2651855'
+        super:
+          pathsource:
+            bezierPathSource:
+              naturalSize:
+                height: 29.496002
+                width: 29.016
+              path:
+                elements:
+                - points:
+                  - x: 0.0
+                    y: 0.0
+                  type: moveTo
+                - points:
+                  - x: 35.68799
+                    y: 0.0
+                  type: lineTo
+                - points:
+                  - x: 35.68799
+                    y: 36.0
+                  type: lineTo
+                - points:
+                  - x: 0.0
+                    y: 36.0
+                  type: lineTo
+                - type: closeSubpath
+                - points:
+                  - x: 0.0
+                    y: 0.0
+                  type: moveTo
+            horizontalFlip: false
+            verticalFlip: false
+          strokePatternOffsetDistance: 0.0
+          style:
+            identifier: '2651729'
+          super:
+            aspectRatioLocked: false
+            captionHidden: false
+            exteriorTextWrap:
+              alphaThreshold: 0.5
+              direction: 2
+              fitType: 1
+              isHtmlWrap: false
+              margin: 12.0
+              type: 4
+            geometry:
+              angle: 0.0
+              flags: 0
+              position:
+                x: 959.508
+                y: 1059.496
+              size:
+                height: 0.0
+                width: 0.0
+            locked: false
+            parent:
+              identifier: '2651844'
+            titleHidden: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651855'
+      messageInfos:
+      - objectReferences:
+        - '2651115'
+        - '2651094'
+        type: 2001
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSWP.StorageArchive
+      inDocument: true
+      styleSheet:
+        identifier: '2652388'
+      tableDropCapStyle:
+        entries:
+        - characterIndex: 0
+      tableListStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651094'
+      tableParaBidi:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaData:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStarts:
+        entries:
+        - characterIndex: 0
+          first: 0
+          second: 0
+      tableParaStyle:
+        entries:
+        - characterIndex: 0
+          object:
+            identifier: '2651115'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651845'
+      messageInfos:
+      - type: 3047
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSD.GuideStorageArchive
+      userDefinedGuides:
+      - position: 540.19977
+        type: Horizontal
+      - position: 479.7784
+        type: Vertical
+      - position: 1389.433
+        type: Vertical
+      - position: 141.11458
+        type: Horizontal
+      - position: 655.36456
+        type: Horizontal
+      - position: 222.25
+        type: Horizontal
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652400'
+      messageInfos:
+      - type: 19
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.ClassicStylesheetRecordArchive

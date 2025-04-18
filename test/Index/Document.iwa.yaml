@@ -1,0 +1,4275 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '1'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 3
+            - 1
+            - 17
+          type: Message
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652381'
+        - '2652382'
+        - '2652383'
+        - '2652622'
+        - '2652384'
+        - '2652385'
+        type: 1
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.DocumentArchive
+      show:
+        identifier: '2652385'
+      super:
+        calculationEngine:
+          identifier: '2652382'
+        canUseHevc: false
+        collaborativeMediaCompatibilityUpgradeDidFail: false
+        customFormatList:
+          identifier: '2652383'
+        documentLanguage: en
+        functionBrowserState:
+          identifier: '2652384'
+        isContentSource: false
+        needsMediaCompatibilityUpgrade: false
+        super:
+          annotationAuthorStorage:
+            identifier: '2652381'
+          creationLocaleIdentifier: en_CN
+          formattingSymbols:
+            amSymbol: AM
+            calendar: gregorian
+            currencyCode: CNY
+            currencyDecimalSeparator: .
+            currencyGroupingSeparator: ','
+            currencyPattern: "\xA4#,##0.00"
+            currencySymbols:
+            - code: AUD
+              symbol: A$
+            - code: BRL
+              symbol: R$
+            - code: CAD
+              symbol: CA$
+            - code: CNY
+              symbol: "\xA5"
+            - code: EUR
+              symbol: "\u20AC"
+            - code: GBP
+              symbol: "\xA3"
+            - code: HKD
+              symbol: HK$
+            - code: ILS
+              symbol: "\u20AA"
+            - code: INR
+              symbol: "\u20B9"
+            - code: JPY
+              symbol: "JP\xA5"
+            - code: KRW
+              symbol: "\uFFE6"
+            - code: MXN
+              symbol: MX$
+            - code: NZD
+              symbol: NZ$
+            - code: PHP
+              symbol: "\u20B1"
+            - code: TWD
+              symbol: NT$
+            - code: USD
+              symbol: US$
+            - code: VND
+              symbol: "\u20AB"
+            - code: XAF
+              symbol: FCFA
+            - code: XCD
+              symbol: EC$
+            - code: XOF
+              symbol: "F\u202FCFA"
+            - code: XPF
+              symbol: CFPF
+            - code: XXX
+              symbol: "\xA4"
+            decimalPattern: '#,##0.###'
+            decimalSeparator: .
+            eras:
+            - BC
+            - AD
+            exponentialSymbol: E
+            fullDatePattern: EEEE, MMMM d, y
+            fullTimePattern: HH:mm:ss zzzz
+            groupingSeparator: ','
+            infinitySymbol: "+\u221E"
+            longDatePattern: MMMM d, y
+            longEras:
+            - Before Christ
+            - Anno Domini
+            longTimePattern: HH:mm:ss z
+            mediumDatePattern: MMM d, y
+            mediumTimePattern: HH:mm:ss
+            minusSign: '-'
+            months:
+            - January
+            - February
+            - March
+            - April
+            - May
+            - June
+            - July
+            - August
+            - September
+            - October
+            - November
+            - December
+            nanSymbol: NaN
+            numberingSystem: latn
+            perMilleSymbol: "\u2030"
+            percentPattern: '#,##0%'
+            percentSymbol: '%'
+            plusSign: +
+            pmSymbol: PM
+            quarters:
+            - 1st quarter
+            - 2nd quarter
+            - 3rd quarter
+            - 4th quarter
+            scientificPattern: '#E0'
+            shortDatePattern: y/M/d
+            shortMonths:
+            - Jan
+            - Feb
+            - Mar
+            - Apr
+            - May
+            - Jun
+            - Jul
+            - Aug
+            - Sep
+            - Oct
+            - Nov
+            - Dec
+            shortQuarters:
+            - Q1
+            - Q2
+            - Q3
+            - Q4
+            shortTimePattern: HH:mm
+            shortWeekdays:
+            - Sun
+            - Mon
+            - Tue
+            - Wed
+            - Thu
+            - Fri
+            - Sat
+            standaloneMonths:
+            - January
+            - February
+            - March
+            - April
+            - May
+            - June
+            - July
+            - August
+            - September
+            - October
+            - November
+            - December
+            standaloneQuarters:
+            - 1st quarter
+            - 2nd quarter
+            - 3rd quarter
+            - 4th quarter
+            standaloneShortMonths:
+            - Jan
+            - Feb
+            - Mar
+            - Apr
+            - May
+            - Jun
+            - Jul
+            - Aug
+            - Sep
+            - Oct
+            - Nov
+            - Dec
+            standaloneShortQuarters:
+            - Q1
+            - Q2
+            - Q3
+            - Q4
+            standaloneShortWeekdays:
+            - Sun
+            - Mon
+            - Tue
+            - Wed
+            - Thu
+            - Fri
+            - Sat
+            standaloneTinyMonths:
+            - J
+            - F
+            - M
+            - A
+            - M
+            - J
+            - J
+            - A
+            - S
+            - O
+            - N
+            - D
+            standaloneTinyWeekdays:
+            - S
+            - M
+            - T
+            - W
+            - T
+            - F
+            - S
+            standaloneWeekdays:
+            - Sunday
+            - Monday
+            - Tuesday
+            - Wednesday
+            - Thursday
+            - Friday
+            - Saturday
+            tinyMonths:
+            - J
+            - F
+            - M
+            - A
+            - M
+            - J
+            - J
+            - A
+            - S
+            - O
+            - N
+            - D
+            tinyWeekdays:
+            - S
+            - M
+            - T
+            - W
+            - T
+            - F
+            - S
+            version: '3038.10'
+            weekdays:
+            - Sunday
+            - Monday
+            - Tuesday
+            - Wednesday
+            - Thursday
+            - Friday
+            - Saturday
+          hasUserDefinedLocale: false
+          localeIdentifier: en_CN
+          preventImageConversionOnOpen: true
+          shouldAllowLigaturesInMinimallyTrackedText: true
+          shouldMeasureNegativelyTrackedTextCorrectly: true
+          useOptimizedTextVerticalAlignment: true
+        templateIdentifier: Application/21_BasicWhite/Wide
+        viewState:
+          identifier: '2652622'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652383'
+      messageInfos:
+      - type: 222
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSK.CustomFormatListArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652384'
+      messageInfos:
+      - type: 601
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSA.FunctionBrowserStateArchive
+      currentFunction: 0
+      recentFunctions:
+      - 15
+      - 168
+      - 88
+      - 84
+      - 30
+      - 31
+      - 62
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652385'
+      messageInfos:
+      - objectReferences:
+        - '2652149'
+        - '2651086'
+        - '2652388'
+        - '2651093'
+        type: 2
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.ShowArchive
+      automaticallyPlaysUponOpen: false
+      autoplayBuildDelay: 2.0
+      autoplayTransitionDelay: 5.0
+      idleTimerActive: false
+      idleTimerDelay: 900.0
+      loopPresentation: false
+      mode: kKNShowModeNormal
+      size:
+        height: 1080.0
+        width: 1920.0
+      slideTree:
+        slides:
+        - identifier: '2652149'
+      soundtrack:
+        identifier: '2651093'
+      stylesheet:
+        identifier: '2652388'
+      theme:
+        identifier: '2651086'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652149'
+      messageInfos:
+      - dataReferences:
+        - '9089'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652150'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuilds: false
+      hasExplicitBuildsCacheVersion: 2
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652150'
+      templateSlideId:
+        lower: '13496213155936721464'
+        upper: '4165880307802102923'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9089'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651086'
+      messageInfos:
+      - dataReferences:
+        - '15'
+        - '15'
+        - '15'
+        - '15'
+        - '15'
+        - '16'
+        fieldInfos:
+        - path:
+            path:
+            - 9
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserve
+        objectReferences:
+        - '2651156'
+        - '2651131'
+        - '2651132'
+        - '2651133'
+        - '2651134'
+        - '2651135'
+        - '2651136'
+        - '2651137'
+        - '2651138'
+        - '2651139'
+        - '2651140'
+        - '2651141'
+        - '2651142'
+        - '2651143'
+        - '2651144'
+        - '2651145'
+        - '2651146'
+        - '2651147'
+        - '2651148'
+        - '2651149'
+        - '2651150'
+        - '2651151'
+        - '2651152'
+        - '2651153'
+        - '2651154'
+        - '2651155'
+        - '2651094'
+        - '2651095'
+        - '2651096'
+        - '2651097'
+        - '2651098'
+        - '2651125'
+        - '2651126'
+        - '2651127'
+        - '2651128'
+        - '2651129'
+        - '2651130'
+        - '2651099'
+        - '2651100'
+        - '2651101'
+        - '2651102'
+        - '2651107'
+        - '2651111'
+        - '2651109'
+        - '2651110'
+        - '2651103'
+        - '2651108'
+        - '2651104'
+        - '2651105'
+        - '2651106'
+        - '2651691'
+        - '2651692'
+        - '2651693'
+        - '2651694'
+        - '2651695'
+        - '2651696'
+        - '2651327'
+        - '2651352'
+        - '2651377'
+        - '2651402'
+        - '2651427'
+        - '2651452'
+        - '2651491'
+        - '2651530'
+        - '2651569'
+        - '2651608'
+        - '2651647'
+        - '2651686'
+        - '2651687'
+        - '2651688'
+        - '2652417'
+        - '2651715'
+        - '2651743'
+        - '2651774'
+        - '2651801'
+        - '2651824'
+        - '2651843'
+        - '2651874'
+        - '2651905'
+        - '2651935'
+        - '2651953'
+        - '2651975'
+        - '2651997'
+        - '2652015'
+        - '2652037'
+        - '2652059'
+        - '2652104'
+        - '2652131'
+        - '2651087'
+        - '2651697'
+        - '2651698'
+        - '2651699'
+        - '2651700'
+        - '2651701'
+        - '2651702'
+        - '2651703'
+        - '2651704'
+        - '2651705'
+        - '2651706'
+        - '2651707'
+        - '2651708'
+        - '2651709'
+        - '2651710'
+        - '2651711'
+        - '2651712'
+        - '2651713'
+        - '2651714'
+        type: 10
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.ThemeArchive
+      defaultTemplateSlideNode:
+        identifier: '2651801'
+      defaultTemplateSlideNodeIsOurBestGuess: false
+      defaultTemplateSlideNodeReference:
+        identifier: '2651801'
+      liveVideoSourceCollection:
+        identifier: '2651087'
+      motionBackgroundStylePresets:
+      - identifier: '2651697'
+      - identifier: '2651698'
+      - identifier: '2651699'
+      - identifier: '2651700'
+      - identifier: '2651701'
+      - identifier: '2651702'
+      - identifier: '2651703'
+      - identifier: '2651704'
+      - identifier: '2651705'
+      - identifier: '2651706'
+      - identifier: '2651707'
+      - identifier: '2651708'
+      - identifier: '2651709'
+      - identifier: '2651710'
+      - identifier: '2651711'
+      - identifier: '2651712'
+      - identifier: '2651713'
+      - identifier: '2651714'
+      super:
+        '[TSA.ThemePresetsArchive.extension]':
+          captionStylePresets:
+          - identifier: '2651687'
+          - identifier: '2651688'
+          svgImportStylePresets:
+          - identifier: '2652417'
+        '[TSCH.ChartPresetsArchive.extension]':
+          chartPresets:
+          - identifier: '2651491'
+          - identifier: '2651530'
+          - identifier: '2651569'
+          - identifier: '2651608'
+          - identifier: '2651647'
+          - identifier: '2651686'
+        '[TSD.ThemePresetsArchive.extension]':
+          drawingLineStylePresets:
+          - identifier: '2651156'
+          gradientFillPresets:
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.99999994
+                  g: 0.7577284
+                  model: rgb
+                  r: 0.3375923
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 0.72913677
+                  g: 0.46245927
+                  model: rgb
+                  r: 3.419328e-07
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.8119125
+                  g: 0.9048589
+                  model: rgb
+                  r: 0.08815626
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 0.46413124
+                  g: 0.48426753
+                  model: rgb
+                  r: 2.5062127e-07
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.21206391
+                  g: 0.8482563
+                  model: rgb
+                  r: 0.3784469
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 0.0017366778
+                  g: 0.44276616
+                  model: rgb
+                  r: 0.005064959
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.19645536
+                  g: 0.88637906
+                  model: rgb
+                  r: 0.9821816
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 0.0
+                  g: 0.57770616
+                  model: rgb
+                  r: 1.0
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.30555555
+                  g: 0.39067727
+                  model: rgb
+                  r: 0.99999994
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 2.4065375e-08
+                  g: 0.09132584
+                  model: rgb
+                  r: 0.70822424
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          - gradient:
+              advancedGradient: false
+              anglegradient:
+                gradientangle: 4.712389
+              opacity: 1.0
+              stops:
+              - color:
+                  a: 1.0
+                  b: 0.79423755
+                  g: 0.5852322
+                  model: rgb
+                  r: 0.9995852
+                  rgbspace: srgb
+                fraction: 0.0
+                inflection: 0.5
+              - color:
+                  a: 1.0
+                  b: 0.32510626
+                  g: 0.054343827
+                  model: rgb
+                  r: 0.5909113
+                  rgbspace: srgb
+                fraction: 1.0
+                inflection: 0.5
+              type: Linear
+          imageFillPresets:
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '15'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.6862745
+                g: 0.5647059
+                model: rgb
+                r: 0.3529412
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 1.0
+                g: 0.75772005
+                model: rgb
+                r: 0.33634925
+                rgbspace: srgb
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '15'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.5921569
+                g: 0.63529414
+                model: rgb
+                r: 0.22745098
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 0.8119125
+                g: 0.9048589
+                model: rgb
+                r: 0.08815626
+                rgbspace: srgb
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '16'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.36862746
+                g: 0.6862745
+                model: rgb
+                r: 0.4509804
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 0.21206391
+                g: 0.8482563
+                model: rgb
+                r: 0.3784469
+                rgbspace: srgb
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '15'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.18431373
+                g: 0.4745098
+                model: rgb
+                r: 0.6862745
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 0.0
+                g: 0.57770616
+                model: rgb
+                r: 1.0
+                rgbspace: srgb
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '15'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.20784314
+                g: 0.2509804
+                model: rgb
+                r: 0.6509804
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 0.04655505
+                g: 0.13482958
+                model: rgb
+                r: 0.9321255
+                rgbspace: srgb
+          - image:
+              fillsize:
+                height: 300.0
+                width: 300.0
+              imagedata:
+                identifier: '15'
+              interpretsUntaggedImageDataAsGeneric: true
+              referencecolor:
+                a: 1.0
+                b: 0.42745098
+                g: 0.26666668
+                model: rgb
+                r: 0.58431375
+                rgbspace: srgb
+              technique: Tile
+              tint:
+                a: 0.5
+                b: 0.48277956
+                g: 0.16231456
+                model: rgb
+                r: 0.797327
+                rgbspace: srgb
+          imageStylePresets:
+          - identifier: '2651144'
+          - identifier: '2651145'
+          - identifier: '2651146'
+          - identifier: '2651147'
+          - identifier: '2651148'
+          - identifier: '2651149'
+          lineStylePresets:
+          - identifier: '2651131'
+          - identifier: '2651132'
+          - identifier: '2651133'
+          - identifier: '2651134'
+          - identifier: '2651135'
+          - identifier: '2651136'
+          movieStylePresets:
+          - identifier: '2651150'
+          - identifier: '2651151'
+          - identifier: '2651152'
+          - identifier: '2651153'
+          - identifier: '2651154'
+          - identifier: '2651155'
+          shadowPresets:
+          - angle: 90.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            isEnabled: true
+            offset: 2.0
+            opacity: 0.5
+            radius: 5
+            type: TSDDropShadow
+          - angle: 45.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            isEnabled: true
+            offset: 5.0
+            opacity: 0.5
+            radius: 4
+            type: TSDDropShadow
+          - angle: 90.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            isEnabled: true
+            offset: 8.0
+            opacity: 0.5
+            radius: 10
+            type: TSDDropShadow
+          - angle: 45.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            isEnabled: true
+            offset: 0.0
+            opacity: 0.75
+            radius: 10
+            type: TSDDropShadow
+          - angle: 90.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            curvedShadow:
+              curve: -0.12309546
+            isEnabled: true
+            offset: 0.665777
+            opacity: 1.0
+            radius: 15
+            type: TSDCurvedShadow
+          - angle: 90.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            curvedShadow:
+              curve: 0.16487873
+            isEnabled: true
+            offset: 1.0
+            opacity: 0.75
+            radius: 15
+            type: TSDCurvedShadow
+          - angle: 0.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            contactShadow:
+              height: 0.17364818
+            isEnabled: true
+            offset: 0.0
+            opacity: 0.75
+            radius: 28
+            type: TSDContactShadow
+          - angle: 0.0
+            color:
+              a: 1.0
+              b: 0.0
+              g: 0.0
+              model: rgb
+              r: 0.0
+              rgbspace: srgb
+            contactShadow:
+              height: 0.25
+            isEnabled: true
+            offset: 9.41875
+            opacity: 0.75
+            radius: 30
+            type: TSDContactShadow
+          shapeStylePresets:
+          - identifier: '2651137'
+          - identifier: '2651138'
+          - identifier: '2651139'
+          - identifier: '2651140'
+          - identifier: '2651141'
+          - identifier: '2651142'
+          textboxStylePresets:
+          - identifier: '2651143'
+        '[TST.ThemePresetsArchive.extension]':
+          tableStylePresets:
+          - identifier: '2651327'
+          - identifier: '2651352'
+          - identifier: '2651377'
+          - identifier: '2651402'
+          - identifier: '2651427'
+          - identifier: '2651452'
+        '[TSWP.ThemePresetsArchive.extension]':
+          characterStylePresets:
+          - identifier: '2651125'
+          - identifier: '2651126'
+          - identifier: '2651127'
+          - identifier: '2651128'
+          - identifier: '2651129'
+          - identifier: '2651130'
+          dropcapStylePresets:
+          - identifier: '2651691'
+          - identifier: '2651692'
+          - identifier: '2651693'
+          - identifier: '2651694'
+          - identifier: '2651695'
+          - identifier: '2651696'
+          listStylePresets:
+          - identifier: '2651094'
+          - identifier: '2651095'
+          - identifier: '2651096'
+          - identifier: '2651097'
+          - identifier: '2651098'
+          paragraphStylePresets:
+          - identifier: '2651099'
+          - identifier: '2651100'
+          - identifier: '2651101'
+          - identifier: '2651102'
+          - identifier: '2651107'
+          - identifier: '2651111'
+          - identifier: '2651109'
+          - identifier: '2651110'
+          - identifier: '2651103'
+          - identifier: '2651108'
+          - identifier: '2651104'
+          - identifier: '2651105'
+          - identifier: '2651106'
+        colorPresets:
+        - a: 1.0
+          b: 0.9998849
+          g: 1.0
+          model: rgb
+          r: 0.99991614
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.8360307
+          g: 0.8360307
+          model: rgb
+          r: 0.8360308
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.5723067
+          g: 0.57230675
+          model: rgb
+          r: 0.5723068
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.3703636
+          g: 0.37036353
+          model: rgb
+          r: 0.3703636
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.0
+          g: 0.0
+          model: rgb
+          r: 0.0
+          rgbspace: srgb
+        - a: 0.0
+          b: 0.0
+          g: 0.0
+          model: rgb
+          r: 0.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.99999994
+          g: 0.7577284
+          model: rgb
+          r: 0.3375923
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.99999994
+          g: 0.6336031
+          model: rgb
+          r: 0.00063899887
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.72913677
+          g: 0.46245927
+          model: rgb
+          r: 3.419328e-07
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.50000006
+          g: 0.30124688
+          model: rgb
+          r: 0.0011307648
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.91616005
+          g: 0.99046546
+          model: rgb
+          r: 0.45002204
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.8119125
+          g: 0.9048589
+          model: rgb
+          r: 0.08815626
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.5571498
+          g: 0.67121726
+          model: rgb
+          r: 0.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.3978636
+          g: 0.4233495
+          model: rgb
+          r: 0.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.30738848
+          g: 0.98031
+          model: rgb
+          r: 0.5346362
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.21206391
+          g: 0.8482563
+          model: rgb
+          r: 0.3784469
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.0017172571
+          g: 0.6937542
+          model: rgb
+          r: 0.11306285
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.0017366778
+          g: 0.44276616
+          model: rgb
+          r: 0.005064959
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.33862212
+          g: 0.9425197
+          model: rgb
+          r: 1.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.19582486
+          g: 0.8522505
+          model: rgb
+          r: 1.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.0
+          g: 0.6806101
+          model: rgb
+          r: 0.9949785
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.0
+          g: 0.44584644
+          model: rgb
+          r: 0.94928914
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.5529262
+          g: 0.58873874
+          model: rgb
+          r: 1.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.30555555
+          g: 0.39067727
+          model: rgb
+          r: 0.99999994
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.04655505
+          g: 0.13482958
+          model: rgb
+          r: 0.9321255
+          rgbspace: srgb
+        - a: 1.0
+          b: 2.4065375e-08
+          g: 0.09132584
+          model: rgb
+          r: 0.70822424
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.7927254
+          g: 0.5835144
+          model: rgb
+          r: 1.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.631826
+          g: 0.26021215
+          model: rgb
+          r: 1.0
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.46442997
+          g: 0.09603774
+          model: rgb
+          r: 0.82941264
+          rgbspace: srgb
+        - a: 1.0
+          b: 0.32513213
+          g: 0.053724773
+          model: rgb
+          r: 0.59204954
+          rgbspace: srgb
+        documentStylesheet:
+          identifier: '2652388'
+        themeIdentifier: 21_BasicWhite
+      templates:
+      - identifier: '2651715'
+      - identifier: '2651743'
+      - identifier: '2651774'
+      - identifier: '2651801'
+      - identifier: '2651824'
+      - identifier: '2651843'
+      - identifier: '2651874'
+      - identifier: '2651905'
+      - identifier: '2651935'
+      - identifier: '2651953'
+      - identifier: '2651975'
+      - identifier: '2651997'
+      - identifier: '2652015'
+      - identifier: '2652037'
+      - identifier: '2652059'
+      - identifier: '2652104'
+      - identifier: '2652131'
+      uuid: 666B202E-F9BB-4CA4-B8B2-C09B05ADD8EC
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651327'
+      messageInfos:
+      - objectReferences:
+        - '2652394'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652394'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652394'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651303'
+        - '2651305'
+        - '2651306'
+        - '2651307'
+        - '2651304'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651323'
+        - '2651308'
+        - '2651309'
+        - '2651310'
+        - '2651311'
+        - '2651312'
+        - '2651313'
+        - '2651314'
+        - '2651315'
+        - '2651316'
+        - '2651317'
+        - '2651318'
+        - '2651319'
+        - '2651320'
+        - '2651321'
+        - '2651322'
+        - '2651324'
+        - '2651325'
+        - '2651326'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651303'
+        - '2651305'
+        - '2651306'
+        - '2651307'
+        - '2651304'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651323'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651304'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651308'
+      categoryLevel1TextStyle:
+        identifier: '2651120'
+      categoryLevel2Style:
+        identifier: '2651309'
+      categoryLevel2TextStyle:
+        identifier: '2651120'
+      categoryLevel3Style:
+        identifier: '2651310'
+      categoryLevel3TextStyle:
+        identifier: '2651120'
+      categoryLevel4Style:
+        identifier: '2651311'
+      categoryLevel4TextStyle:
+        identifier: '2651120'
+      categoryLevel5Style:
+        identifier: '2651312'
+      categoryLevel5TextStyle:
+        identifier: '2651120'
+      footerRowStyle:
+        identifier: '2651307'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651306'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651305'
+      headerRowTextStyle:
+        identifier: '2651120'
+      labelLevel1Style:
+        identifier: '2651313'
+      labelLevel1TextStyle:
+        identifier: '2651318'
+      labelLevel2Style:
+        identifier: '2651314'
+      labelLevel2TextStyle:
+        identifier: '2651319'
+      labelLevel3Style:
+        identifier: '2651315'
+      labelLevel3TextStyle:
+        identifier: '2651320'
+      labelLevel4Style:
+        identifier: '2651316'
+      labelLevel4TextStyle:
+        identifier: '2651321'
+      labelLevel5Style:
+        identifier: '2651317'
+      labelLevel5TextStyle:
+        identifier: '2651322'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651325'
+      pivotBodySummaryRowStyle:
+        identifier: '2651324'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651326'
+      presetId: 0
+      tableNameShapeStyle:
+        identifier: '2651323'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651303'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651304'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651307'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651306'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651305'
+      headerRowTextStyle:
+        identifier: '2651120'
+      presetId: 0
+      tableNameShapeStyle:
+        identifier: '2651323'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651303'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651352'
+      messageInfos:
+      - objectReferences:
+        - '2652389'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652389'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652389'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651328'
+        - '2651330'
+        - '2651331'
+        - '2651332'
+        - '2651329'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651348'
+        - '2651333'
+        - '2651334'
+        - '2651335'
+        - '2651336'
+        - '2651337'
+        - '2651338'
+        - '2651339'
+        - '2651340'
+        - '2651341'
+        - '2651342'
+        - '2651343'
+        - '2651344'
+        - '2651345'
+        - '2651346'
+        - '2651347'
+        - '2651349'
+        - '2651350'
+        - '2651351'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651328'
+        - '2651330'
+        - '2651331'
+        - '2651332'
+        - '2651329'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651348'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651329'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651333'
+      categoryLevel1TextStyle:
+        identifier: '2651120'
+      categoryLevel2Style:
+        identifier: '2651334'
+      categoryLevel2TextStyle:
+        identifier: '2651120'
+      categoryLevel3Style:
+        identifier: '2651335'
+      categoryLevel3TextStyle:
+        identifier: '2651120'
+      categoryLevel4Style:
+        identifier: '2651336'
+      categoryLevel4TextStyle:
+        identifier: '2651120'
+      categoryLevel5Style:
+        identifier: '2651337'
+      categoryLevel5TextStyle:
+        identifier: '2651120'
+      footerRowStyle:
+        identifier: '2651332'
+      footerRowTextStyle:
+        identifier: '2651121'
+      headerColumnStyle:
+        identifier: '2651331'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651330'
+      headerRowTextStyle:
+        identifier: '2651120'
+      labelLevel1Style:
+        identifier: '2651338'
+      labelLevel1TextStyle:
+        identifier: '2651343'
+      labelLevel2Style:
+        identifier: '2651339'
+      labelLevel2TextStyle:
+        identifier: '2651344'
+      labelLevel3Style:
+        identifier: '2651340'
+      labelLevel3TextStyle:
+        identifier: '2651345'
+      labelLevel4Style:
+        identifier: '2651341'
+      labelLevel4TextStyle:
+        identifier: '2651346'
+      labelLevel5Style:
+        identifier: '2651342'
+      labelLevel5TextStyle:
+        identifier: '2651347'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651350'
+      pivotBodySummaryRowStyle:
+        identifier: '2651349'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651351'
+      presetId: 1
+      tableNameShapeStyle:
+        identifier: '2651348'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651328'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651329'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651332'
+      footerRowTextStyle:
+        identifier: '2651121'
+      headerColumnStyle:
+        identifier: '2651331'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651330'
+      headerRowTextStyle:
+        identifier: '2651120'
+      presetId: 1
+      tableNameShapeStyle:
+        identifier: '2651348'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651328'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651377'
+      messageInfos:
+      - objectReferences:
+        - '2652390'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652390'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652390'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651353'
+        - '2651355'
+        - '2651356'
+        - '2651357'
+        - '2651354'
+        - '2651122'
+        - '2651121'
+        - '2651119'
+        - '2651373'
+        - '2651358'
+        - '2651359'
+        - '2651360'
+        - '2651361'
+        - '2651362'
+        - '2651363'
+        - '2651364'
+        - '2651365'
+        - '2651366'
+        - '2651367'
+        - '2651368'
+        - '2651369'
+        - '2651370'
+        - '2651371'
+        - '2651372'
+        - '2651374'
+        - '2651375'
+        - '2651376'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651353'
+        - '2651355'
+        - '2651356'
+        - '2651357'
+        - '2651354'
+        - '2651122'
+        - '2651121'
+        - '2651119'
+        - '2651373'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651354'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651358'
+      categoryLevel1TextStyle:
+        identifier: '2651122'
+      categoryLevel2Style:
+        identifier: '2651359'
+      categoryLevel2TextStyle:
+        identifier: '2651122'
+      categoryLevel3Style:
+        identifier: '2651360'
+      categoryLevel3TextStyle:
+        identifier: '2651122'
+      categoryLevel4Style:
+        identifier: '2651361'
+      categoryLevel4TextStyle:
+        identifier: '2651122'
+      categoryLevel5Style:
+        identifier: '2651362'
+      categoryLevel5TextStyle:
+        identifier: '2651122'
+      footerRowStyle:
+        identifier: '2651357'
+      footerRowTextStyle:
+        identifier: '2651121'
+      headerColumnStyle:
+        identifier: '2651356'
+      headerColumnTextStyle:
+        identifier: '2651122'
+      headerRowStyle:
+        identifier: '2651355'
+      headerRowTextStyle:
+        identifier: '2651122'
+      labelLevel1Style:
+        identifier: '2651363'
+      labelLevel1TextStyle:
+        identifier: '2651368'
+      labelLevel2Style:
+        identifier: '2651364'
+      labelLevel2TextStyle:
+        identifier: '2651369'
+      labelLevel3Style:
+        identifier: '2651365'
+      labelLevel3TextStyle:
+        identifier: '2651370'
+      labelLevel4Style:
+        identifier: '2651366'
+      labelLevel4TextStyle:
+        identifier: '2651371'
+      labelLevel5Style:
+        identifier: '2651367'
+      labelLevel5TextStyle:
+        identifier: '2651372'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651375'
+      pivotBodySummaryRowStyle:
+        identifier: '2651374'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651376'
+      presetId: 2
+      tableNameShapeStyle:
+        identifier: '2651373'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651353'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651354'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651357'
+      footerRowTextStyle:
+        identifier: '2651121'
+      headerColumnStyle:
+        identifier: '2651356'
+      headerColumnTextStyle:
+        identifier: '2651122'
+      headerRowStyle:
+        identifier: '2651355'
+      headerRowTextStyle:
+        identifier: '2651122'
+      presetId: 2
+      tableNameShapeStyle:
+        identifier: '2651373'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651353'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651402'
+      messageInfos:
+      - objectReferences:
+        - '2652391'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652391'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652391'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651378'
+        - '2651380'
+        - '2651381'
+        - '2651382'
+        - '2651379'
+        - '2651122'
+        - '2651121'
+        - '2651119'
+        - '2651398'
+        - '2651383'
+        - '2651384'
+        - '2651385'
+        - '2651386'
+        - '2651387'
+        - '2651388'
+        - '2651389'
+        - '2651390'
+        - '2651391'
+        - '2651392'
+        - '2651393'
+        - '2651394'
+        - '2651395'
+        - '2651396'
+        - '2651397'
+        - '2651399'
+        - '2651400'
+        - '2651401'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651378'
+        - '2651380'
+        - '2651381'
+        - '2651382'
+        - '2651379'
+        - '2651122'
+        - '2651121'
+        - '2651119'
+        - '2651398'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651379'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651383'
+      categoryLevel1TextStyle:
+        identifier: '2651122'
+      categoryLevel2Style:
+        identifier: '2651384'
+      categoryLevel2TextStyle:
+        identifier: '2651122'
+      categoryLevel3Style:
+        identifier: '2651385'
+      categoryLevel3TextStyle:
+        identifier: '2651122'
+      categoryLevel4Style:
+        identifier: '2651386'
+      categoryLevel4TextStyle:
+        identifier: '2651122'
+      categoryLevel5Style:
+        identifier: '2651387'
+      categoryLevel5TextStyle:
+        identifier: '2651122'
+      footerRowStyle:
+        identifier: '2651382'
+      footerRowTextStyle:
+        identifier: '2651122'
+      headerColumnStyle:
+        identifier: '2651381'
+      headerColumnTextStyle:
+        identifier: '2651122'
+      headerRowStyle:
+        identifier: '2651380'
+      headerRowTextStyle:
+        identifier: '2651122'
+      labelLevel1Style:
+        identifier: '2651388'
+      labelLevel1TextStyle:
+        identifier: '2651393'
+      labelLevel2Style:
+        identifier: '2651389'
+      labelLevel2TextStyle:
+        identifier: '2651394'
+      labelLevel3Style:
+        identifier: '2651390'
+      labelLevel3TextStyle:
+        identifier: '2651395'
+      labelLevel4Style:
+        identifier: '2651391'
+      labelLevel4TextStyle:
+        identifier: '2651396'
+      labelLevel5Style:
+        identifier: '2651392'
+      labelLevel5TextStyle:
+        identifier: '2651397'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651400'
+      pivotBodySummaryRowStyle:
+        identifier: '2651399'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651401'
+      presetId: 3
+      tableNameShapeStyle:
+        identifier: '2651398'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651378'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651379'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651382'
+      footerRowTextStyle:
+        identifier: '2651122'
+      headerColumnStyle:
+        identifier: '2651381'
+      headerColumnTextStyle:
+        identifier: '2651122'
+      headerRowStyle:
+        identifier: '2651380'
+      headerRowTextStyle:
+        identifier: '2651122'
+      presetId: 3
+      tableNameShapeStyle:
+        identifier: '2651398'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651378'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651427'
+      messageInfos:
+      - objectReferences:
+        - '2652392'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652392'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652392'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651403'
+        - '2651405'
+        - '2651406'
+        - '2651407'
+        - '2651404'
+        - '2651123'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651423'
+        - '2651408'
+        - '2651409'
+        - '2651410'
+        - '2651411'
+        - '2651412'
+        - '2651413'
+        - '2651414'
+        - '2651415'
+        - '2651416'
+        - '2651417'
+        - '2651418'
+        - '2651419'
+        - '2651420'
+        - '2651421'
+        - '2651422'
+        - '2651424'
+        - '2651425'
+        - '2651426'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651403'
+        - '2651405'
+        - '2651406'
+        - '2651407'
+        - '2651404'
+        - '2651123'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651423'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651404'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651408'
+      categoryLevel1TextStyle:
+        identifier: '2651123'
+      categoryLevel2Style:
+        identifier: '2651409'
+      categoryLevel2TextStyle:
+        identifier: '2651123'
+      categoryLevel3Style:
+        identifier: '2651410'
+      categoryLevel3TextStyle:
+        identifier: '2651123'
+      categoryLevel4Style:
+        identifier: '2651411'
+      categoryLevel4TextStyle:
+        identifier: '2651123'
+      categoryLevel5Style:
+        identifier: '2651412'
+      categoryLevel5TextStyle:
+        identifier: '2651123'
+      footerRowStyle:
+        identifier: '2651407'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651406'
+      headerColumnTextStyle:
+        identifier: '2651123'
+      headerRowStyle:
+        identifier: '2651405'
+      headerRowTextStyle:
+        identifier: '2651123'
+      labelLevel1Style:
+        identifier: '2651413'
+      labelLevel1TextStyle:
+        identifier: '2651418'
+      labelLevel2Style:
+        identifier: '2651414'
+      labelLevel2TextStyle:
+        identifier: '2651419'
+      labelLevel3Style:
+        identifier: '2651415'
+      labelLevel3TextStyle:
+        identifier: '2651420'
+      labelLevel4Style:
+        identifier: '2651416'
+      labelLevel4TextStyle:
+        identifier: '2651421'
+      labelLevel5Style:
+        identifier: '2651417'
+      labelLevel5TextStyle:
+        identifier: '2651422'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651425'
+      pivotBodySummaryRowStyle:
+        identifier: '2651424'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651426'
+      presetId: 4
+      tableNameShapeStyle:
+        identifier: '2651423'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651403'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651404'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651407'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651406'
+      headerColumnTextStyle:
+        identifier: '2651123'
+      headerRowStyle:
+        identifier: '2651405'
+      headerRowTextStyle:
+        identifier: '2651123'
+      presetId: 4
+      tableNameShapeStyle:
+        identifier: '2651423'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651403'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651452'
+      messageInfos:
+      - objectReferences:
+        - '2652393'
+        type: 6008
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TST.TableStylePresetArchive
+      styleNetwork:
+        identifier: '2652393'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652393'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 35
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 34
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 33
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 27
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 25
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 24
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 23
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 32
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 31
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 30
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 29
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 28
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 17
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 16
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 15
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 14
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 13
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 22
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 21
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 20
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 19
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 18
+          type: ObjectReference
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651428'
+        - '2651430'
+        - '2651431'
+        - '2651432'
+        - '2651429'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651448'
+        - '2651433'
+        - '2651434'
+        - '2651435'
+        - '2651436'
+        - '2651437'
+        - '2651438'
+        - '2651439'
+        - '2651440'
+        - '2651441'
+        - '2651442'
+        - '2651443'
+        - '2651444'
+        - '2651445'
+        - '2651446'
+        - '2651447'
+        - '2651449'
+        - '2651450'
+        - '2651451'
+        type: 6247
+        version:
+        - 2
+        - 4
+        - 0
+      - objectReferences:
+        - '2651428'
+        - '2651430'
+        - '2651431'
+        - '2651432'
+        - '2651429'
+        - '2651120'
+        - '2651121'
+        - '2651119'
+        - '2651448'
+        type: 6247
+        version:
+        - 2
+        - 0
+        - 0
+    objects:
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651429'
+      bodyTextStyle:
+        identifier: '2651121'
+      categoryLevel1Style:
+        identifier: '2651433'
+      categoryLevel1TextStyle:
+        identifier: '2651120'
+      categoryLevel2Style:
+        identifier: '2651434'
+      categoryLevel2TextStyle:
+        identifier: '2651120'
+      categoryLevel3Style:
+        identifier: '2651435'
+      categoryLevel3TextStyle:
+        identifier: '2651120'
+      categoryLevel4Style:
+        identifier: '2651436'
+      categoryLevel4TextStyle:
+        identifier: '2651120'
+      categoryLevel5Style:
+        identifier: '2651437'
+      categoryLevel5TextStyle:
+        identifier: '2651120'
+      footerRowStyle:
+        identifier: '2651432'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651431'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651430'
+      headerRowTextStyle:
+        identifier: '2651120'
+      labelLevel1Style:
+        identifier: '2651438'
+      labelLevel1TextStyle:
+        identifier: '2651443'
+      labelLevel2Style:
+        identifier: '2651439'
+      labelLevel2TextStyle:
+        identifier: '2651444'
+      labelLevel3Style:
+        identifier: '2651440'
+      labelLevel3TextStyle:
+        identifier: '2651445'
+      labelLevel4Style:
+        identifier: '2651441'
+      labelLevel4TextStyle:
+        identifier: '2651446'
+      labelLevel5Style:
+        identifier: '2651442'
+      labelLevel5TextStyle:
+        identifier: '2651447'
+      pivotBodySummaryColumnStyle:
+        identifier: '2651450'
+      pivotBodySummaryRowStyle:
+        identifier: '2651449'
+      pivotHeaderColumnSummaryStyle:
+        identifier: '2651451'
+      presetId: 5
+      tableNameShapeStyle:
+        identifier: '2651448'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651428'
+    - _pbtype: TST.TableStyleNetworkArchive
+      bodyCellStyle:
+        identifier: '2651429'
+      bodyTextStyle:
+        identifier: '2651121'
+      footerRowStyle:
+        identifier: '2651432'
+      footerRowTextStyle:
+        identifier: '2651120'
+      headerColumnStyle:
+        identifier: '2651431'
+      headerColumnTextStyle:
+        identifier: '2651120'
+      headerRowStyle:
+        identifier: '2651430'
+      headerRowTextStyle:
+        identifier: '2651120'
+      presetId: 5
+      tableNameShapeStyle:
+        identifier: '2651448'
+      tableNameStyle:
+        identifier: '2651119'
+      tableStyle:
+        identifier: '2651428'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651491'
+      messageInfos:
+      - objectReferences:
+        - '2651453'
+        - '2651454'
+        - '2651455'
+        - '2651456'
+        - '2651457'
+        - '2651458'
+        - '2651459'
+        - '2651460'
+        - '2651461'
+        - '2651462'
+        - '2651463'
+        - '2651465'
+        - '2651466'
+        - '2651467'
+        - '2651468'
+        - '2651469'
+        - '2651470'
+        - '2651471'
+        - '2651472'
+        - '2651473'
+        - '2651474'
+        - '2651475'
+        - '2651476'
+        - '2651477'
+        - '2651478'
+        - '2651479'
+        - '2651480'
+        - '2651481'
+        - '2651482'
+        - '2651483'
+        - '2651484'
+        - '2651485'
+        - '2651486'
+        - '2651487'
+        - '2651488'
+        - '2651489'
+        - '2651490'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651490'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651457'
+      chartStyle:
+        identifier: '2651453'
+      legendStyle:
+        identifier: '2651454'
+      paragraphStyles:
+      - identifier: '2651465'
+      - identifier: '2651466'
+      - identifier: '2651467'
+      - identifier: '2651468'
+      - identifier: '2651469'
+      - identifier: '2651470'
+      - identifier: '2651471'
+      - identifier: '2651472'
+      - identifier: '2651473'
+      - identifier: '2651474'
+      - identifier: '2651475'
+      - identifier: '2651476'
+      - identifier: '2651477'
+      - identifier: '2651478'
+      - identifier: '2651479'
+      - identifier: '2651480'
+      - identifier: '2651481'
+      - identifier: '2651482'
+      - identifier: '2651483'
+      - identifier: '2651484'
+      - identifier: '2651485'
+      - identifier: '2651486'
+      - identifier: '2651487'
+      - identifier: '2651488'
+      - identifier: '2651489'
+      seriesStyles:
+      - identifier: '2651458'
+      - identifier: '2651459'
+      - identifier: '2651460'
+      - identifier: '2651461'
+      - identifier: '2651462'
+      - identifier: '2651463'
+      uuid: dif++Hb4Q3GBVCz63HuIBw==
+      valueAxisStyles:
+      - identifier: '2651455'
+      - identifier: '2651456'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651530'
+      messageInfos:
+      - objectReferences:
+        - '2651492'
+        - '2651493'
+        - '2651494'
+        - '2651495'
+        - '2651496'
+        - '2651497'
+        - '2651498'
+        - '2651499'
+        - '2651500'
+        - '2651501'
+        - '2651502'
+        - '2651504'
+        - '2651505'
+        - '2651506'
+        - '2651507'
+        - '2651508'
+        - '2651509'
+        - '2651510'
+        - '2651511'
+        - '2651512'
+        - '2651513'
+        - '2651514'
+        - '2651515'
+        - '2651516'
+        - '2651517'
+        - '2651518'
+        - '2651519'
+        - '2651520'
+        - '2651521'
+        - '2651522'
+        - '2651523'
+        - '2651524'
+        - '2651525'
+        - '2651526'
+        - '2651527'
+        - '2651528'
+        - '2651529'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651529'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651496'
+      chartStyle:
+        identifier: '2651492'
+      legendStyle:
+        identifier: '2651493'
+      paragraphStyles:
+      - identifier: '2651504'
+      - identifier: '2651505'
+      - identifier: '2651506'
+      - identifier: '2651507'
+      - identifier: '2651508'
+      - identifier: '2651509'
+      - identifier: '2651510'
+      - identifier: '2651511'
+      - identifier: '2651512'
+      - identifier: '2651513'
+      - identifier: '2651514'
+      - identifier: '2651515'
+      - identifier: '2651516'
+      - identifier: '2651517'
+      - identifier: '2651518'
+      - identifier: '2651519'
+      - identifier: '2651520'
+      - identifier: '2651521'
+      - identifier: '2651522'
+      - identifier: '2651523'
+      - identifier: '2651524'
+      - identifier: '2651525'
+      - identifier: '2651526'
+      - identifier: '2651527'
+      - identifier: '2651528'
+      seriesStyles:
+      - identifier: '2651497'
+      - identifier: '2651498'
+      - identifier: '2651499'
+      - identifier: '2651500'
+      - identifier: '2651501'
+      - identifier: '2651502'
+      uuid: F/2y25Q5R1ahUB+SIYCk1A==
+      valueAxisStyles:
+      - identifier: '2651494'
+      - identifier: '2651495'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651569'
+      messageInfos:
+      - objectReferences:
+        - '2651531'
+        - '2651532'
+        - '2651533'
+        - '2651534'
+        - '2651535'
+        - '2651536'
+        - '2651537'
+        - '2651538'
+        - '2651539'
+        - '2651540'
+        - '2651541'
+        - '2651543'
+        - '2651544'
+        - '2651545'
+        - '2651546'
+        - '2651547'
+        - '2651548'
+        - '2651549'
+        - '2651550'
+        - '2651551'
+        - '2651552'
+        - '2651553'
+        - '2651554'
+        - '2651555'
+        - '2651556'
+        - '2651557'
+        - '2651558'
+        - '2651559'
+        - '2651560'
+        - '2651561'
+        - '2651562'
+        - '2651563'
+        - '2651564'
+        - '2651565'
+        - '2651566'
+        - '2651567'
+        - '2651568'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651568'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651535'
+      chartStyle:
+        identifier: '2651531'
+      legendStyle:
+        identifier: '2651532'
+      paragraphStyles:
+      - identifier: '2651543'
+      - identifier: '2651544'
+      - identifier: '2651545'
+      - identifier: '2651546'
+      - identifier: '2651547'
+      - identifier: '2651548'
+      - identifier: '2651549'
+      - identifier: '2651550'
+      - identifier: '2651551'
+      - identifier: '2651552'
+      - identifier: '2651553'
+      - identifier: '2651554'
+      - identifier: '2651555'
+      - identifier: '2651556'
+      - identifier: '2651557'
+      - identifier: '2651558'
+      - identifier: '2651559'
+      - identifier: '2651560'
+      - identifier: '2651561'
+      - identifier: '2651562'
+      - identifier: '2651563'
+      - identifier: '2651564'
+      - identifier: '2651565'
+      - identifier: '2651566'
+      - identifier: '2651567'
+      seriesStyles:
+      - identifier: '2651536'
+      - identifier: '2651537'
+      - identifier: '2651538'
+      - identifier: '2651539'
+      - identifier: '2651540'
+      - identifier: '2651541'
+      uuid: OaYESTkcQ3iBhzzhoeTXFA==
+      valueAxisStyles:
+      - identifier: '2651533'
+      - identifier: '2651534'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651608'
+      messageInfos:
+      - objectReferences:
+        - '2651570'
+        - '2651571'
+        - '2651572'
+        - '2651573'
+        - '2651574'
+        - '2651575'
+        - '2651576'
+        - '2651577'
+        - '2651578'
+        - '2651579'
+        - '2651580'
+        - '2651582'
+        - '2651583'
+        - '2651584'
+        - '2651585'
+        - '2651586'
+        - '2651587'
+        - '2651588'
+        - '2651589'
+        - '2651590'
+        - '2651591'
+        - '2651592'
+        - '2651593'
+        - '2651594'
+        - '2651595'
+        - '2651596'
+        - '2651597'
+        - '2651598'
+        - '2651599'
+        - '2651600'
+        - '2651601'
+        - '2651602'
+        - '2651603'
+        - '2651604'
+        - '2651605'
+        - '2651606'
+        - '2651607'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651607'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651574'
+      chartStyle:
+        identifier: '2651570'
+      legendStyle:
+        identifier: '2651571'
+      paragraphStyles:
+      - identifier: '2651582'
+      - identifier: '2651583'
+      - identifier: '2651584'
+      - identifier: '2651585'
+      - identifier: '2651586'
+      - identifier: '2651587'
+      - identifier: '2651588'
+      - identifier: '2651589'
+      - identifier: '2651590'
+      - identifier: '2651591'
+      - identifier: '2651592'
+      - identifier: '2651593'
+      - identifier: '2651594'
+      - identifier: '2651595'
+      - identifier: '2651596'
+      - identifier: '2651597'
+      - identifier: '2651598'
+      - identifier: '2651599'
+      - identifier: '2651600'
+      - identifier: '2651601'
+      - identifier: '2651602'
+      - identifier: '2651603'
+      - identifier: '2651604'
+      - identifier: '2651605'
+      - identifier: '2651606'
+      seriesStyles:
+      - identifier: '2651575'
+      - identifier: '2651576'
+      - identifier: '2651577'
+      - identifier: '2651578'
+      - identifier: '2651579'
+      - identifier: '2651580'
+      uuid: dqJgGoSrS22rOffT6wr7mQ==
+      valueAxisStyles:
+      - identifier: '2651572'
+      - identifier: '2651573'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651647'
+      messageInfos:
+      - objectReferences:
+        - '2651609'
+        - '2651610'
+        - '2651611'
+        - '2651612'
+        - '2651613'
+        - '2651614'
+        - '2651615'
+        - '2651616'
+        - '2651617'
+        - '2651618'
+        - '2651619'
+        - '2651621'
+        - '2651622'
+        - '2651623'
+        - '2651624'
+        - '2651625'
+        - '2651626'
+        - '2651627'
+        - '2651628'
+        - '2651629'
+        - '2651630'
+        - '2651631'
+        - '2651632'
+        - '2651633'
+        - '2651634'
+        - '2651635'
+        - '2651636'
+        - '2651637'
+        - '2651638'
+        - '2651639'
+        - '2651640'
+        - '2651641'
+        - '2651642'
+        - '2651643'
+        - '2651644'
+        - '2651645'
+        - '2651646'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651646'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651613'
+      chartStyle:
+        identifier: '2651609'
+      legendStyle:
+        identifier: '2651610'
+      paragraphStyles:
+      - identifier: '2651621'
+      - identifier: '2651622'
+      - identifier: '2651623'
+      - identifier: '2651624'
+      - identifier: '2651625'
+      - identifier: '2651626'
+      - identifier: '2651627'
+      - identifier: '2651628'
+      - identifier: '2651629'
+      - identifier: '2651630'
+      - identifier: '2651631'
+      - identifier: '2651632'
+      - identifier: '2651633'
+      - identifier: '2651634'
+      - identifier: '2651635'
+      - identifier: '2651636'
+      - identifier: '2651637'
+      - identifier: '2651638'
+      - identifier: '2651639'
+      - identifier: '2651640'
+      - identifier: '2651641'
+      - identifier: '2651642'
+      - identifier: '2651643'
+      - identifier: '2651644'
+      - identifier: '2651645'
+      seriesStyles:
+      - identifier: '2651614'
+      - identifier: '2651615'
+      - identifier: '2651616'
+      - identifier: '2651617'
+      - identifier: '2651618'
+      - identifier: '2651619'
+      uuid: uLHITkJLTCCBhlfN5vKBrA==
+      valueAxisStyles:
+      - identifier: '2651611'
+      - identifier: '2651612'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651686'
+      messageInfos:
+      - objectReferences:
+        - '2651648'
+        - '2651649'
+        - '2651650'
+        - '2651651'
+        - '2651652'
+        - '2651653'
+        - '2651654'
+        - '2651655'
+        - '2651656'
+        - '2651657'
+        - '2651658'
+        - '2651660'
+        - '2651661'
+        - '2651662'
+        - '2651663'
+        - '2651664'
+        - '2651665'
+        - '2651666'
+        - '2651667'
+        - '2651668'
+        - '2651669'
+        - '2651670'
+        - '2651671'
+        - '2651672'
+        - '2651673'
+        - '2651674'
+        - '2651675'
+        - '2651676'
+        - '2651677'
+        - '2651678'
+        - '2651679'
+        - '2651680'
+        - '2651681'
+        - '2651682'
+        - '2651683'
+        - '2651684'
+        - '2651685'
+        type: 5020
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - '[TSCH.preset_reference_line_styles]':
+        referenceLineStyles:
+        - identifier: '2651685'
+      _pbtype: TSCH.ChartStylePreset
+      categoryAxisStyles:
+      - identifier: '2651652'
+      chartStyle:
+        identifier: '2651648'
+      legendStyle:
+        identifier: '2651649'
+      paragraphStyles:
+      - identifier: '2651660'
+      - identifier: '2651661'
+      - identifier: '2651662'
+      - identifier: '2651663'
+      - identifier: '2651664'
+      - identifier: '2651665'
+      - identifier: '2651666'
+      - identifier: '2651667'
+      - identifier: '2651668'
+      - identifier: '2651669'
+      - identifier: '2651670'
+      - identifier: '2651671'
+      - identifier: '2651672'
+      - identifier: '2651673'
+      - identifier: '2651674'
+      - identifier: '2651675'
+      - identifier: '2651676'
+      - identifier: '2651677'
+      - identifier: '2651678'
+      - identifier: '2651679'
+      - identifier: '2651680'
+      - identifier: '2651681'
+      - identifier: '2651682'
+      - identifier: '2651683'
+      - identifier: '2651684'
+      seriesStyles:
+      - identifier: '2651653'
+      - identifier: '2651654'
+      - identifier: '2651655'
+      - identifier: '2651656'
+      - identifier: '2651657'
+      - identifier: '2651658'
+      uuid: E2/uxSIzQJ2P0XYP7FOOrw==
+      valueAxisStyles:
+      - identifier: '2651650'
+      - identifier: '2651651'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651715'
+      messageInfos:
+      - dataReferences:
+        - '9059'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651716'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651716'
+      templateSlideId:
+        lower: '13496213155936721464'
+        upper: '4165880307802102923'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9059'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651743'
+      messageInfos:
+      - dataReferences:
+        - '9060'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651744'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651744'
+      templateSlideId:
+        lower: '14071670263557149603'
+        upper: '8635384097876156546'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9060'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651774'
+      messageInfos:
+      - dataReferences:
+        - '9061'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651775'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651775'
+      templateSlideId:
+        lower: '6575591932259326133'
+        upper: '12335595967017997963'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9061'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651801'
+      messageInfos:
+      - dataReferences:
+        - '9062'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651802'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651802'
+      templateSlideId:
+        lower: '7369716223464914135'
+        upper: '14146601125876457647'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9062'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651824'
+      messageInfos:
+      - dataReferences:
+        - '9063'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651825'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651825'
+      templateSlideId:
+        lower: '12556919844805982663'
+        upper: '1922768417866606500'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9063'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651843'
+      messageInfos:
+      - dataReferences:
+        - '9029'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651844'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651844'
+      templateSlideId:
+        lower: '7948791984623883827'
+        upper: '15053630441120674949'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9029'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651874'
+      messageInfos:
+      - dataReferences:
+        - '9072'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651875'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651875'
+      templateSlideId:
+        lower: '4631987983743754111'
+        upper: '17489649559118497425'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9072'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651905'
+      messageInfos:
+      - dataReferences:
+        - '9073'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651906'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651906'
+      templateSlideId:
+        lower: '2471216625535049401'
+        upper: '4677139804163373752'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9073'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651935'
+      messageInfos:
+      - dataReferences:
+        - '9064'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651936'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651936'
+      templateSlideId:
+        lower: '7729111389774608088'
+        upper: '16593651237485422756'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9064'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651953'
+      messageInfos:
+      - dataReferences:
+        - '9065'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651954'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651954'
+      templateSlideId:
+        lower: '9674493407268320336'
+        upper: '6671812136068541867'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9065'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651975'
+      messageInfos:
+      - dataReferences:
+        - '9066'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651976'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651976'
+      templateSlideId:
+        lower: '5856130961600736835'
+        upper: '17501760303543328661'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9066'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651997'
+      messageInfos:
+      - dataReferences:
+        - '9074'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2651998'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2651998'
+      templateSlideId:
+        lower: '16088199003963174582'
+        upper: '8692906423081359257'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9074'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652015'
+      messageInfos:
+      - dataReferences:
+        - '9075'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652016'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652016'
+      templateSlideId:
+        lower: '3335316284146294122'
+        upper: '1420219123803049349'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9075'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652037'
+      messageInfos:
+      - dataReferences:
+        - '9069'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652038'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652038'
+      templateSlideId:
+        lower: '15225696923436746645'
+        upper: '1582168317909855634'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9069'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652059'
+      messageInfos:
+      - dataReferences:
+        - '9070'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652060'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652060'
+      templateSlideId:
+        lower: '11983966256057190802'
+        upper: '15579606513386069423'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9070'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652104'
+      messageInfos:
+      - dataReferences:
+        - '9071'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652105'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652105'
+      templateSlideId:
+        lower: '3696873974482757099'
+        upper: '5106594262459366528'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9071'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652131'
+      messageInfos:
+      - dataReferences:
+        - '9058'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2652132'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuildsCacheVersion: 4294967295
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2652132'
+      templateSlideId:
+        lower: '12628598426366420888'
+        upper: '14529615722745858202'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9058'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651087'
+      messageInfos:
+      - objectReferences:
+        - '2651088'
+        type: 185
+        version:
+        - 11
+        - 2
+        - 4
+    objects:
+    - _pbtype: KN.LiveVideoSourceCollection
+      defaultSource:
+        identifier: '2651088'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651088'
+      messageInfos:
+      - type: 184
+        version:
+        - 11
+        - 2
+        - 4
+    objects:
+    - _pbtype: KN.LiveVideoSource
+      collaborationCommandUsageState:
+        hasMultipleCollaborationCommandUsageTokens: false
+      isDefaultSource: true
+      name: Default Camera
+      symbolImageIdentifier: 0
+      symbolTintColorIdentifier: 0
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2651093'
+      messageInfos:
+      - type: 21
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.Soundtrack
+      mode: kKNSoundtrackModePlayOnce
+      volume: 1.0

@@ -1,0 +1,181 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '71'
+      messageInfos:
+      - fieldInfos:
+        - path:
+            path:
+            - 3
+          type: Message
+          unknownFieldRule: IgnoreAndPreserve
+        type: 11011
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSP.DocumentMetadata
+      dataPropertiesV1:
+        properties:
+        - creationTimeIntervalSince1970: 1683765501.7097402
+          creationVersion:
+          - 13
+          - 1
+          - 2
+          digest: +2dYA4mOVrl/Ysihjrk75HUf/DE=
+          expectsMatchedDigest: true
+        - digest: YkB8BwM18cRrKdpnIBVEB+KqCcM=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962542.695864
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: wcNjda90SoqBG25KgNo/XLGGsa8=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.827454
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: ojBiKgnPS4g6X6PS4lPWFyZFXiE=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.950906
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: nYF2TIL4d70i66vh0nX8fWgf+i4=
+          expectsMatchedDigest: true
+        - digest: ETLbHlyGPVpaKbPqkIjFF+lufJo=
+          expectsMatchedDigest: true
+        - digest: Mc4dszH/QPPstJ78QqkBYvRro5Y=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.932979
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: e3T2Y502Q8vjd5bTXFFbp9cPq0w=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962542.717637
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: 3b01LM0Vkz1XIbTusxVxH4038x8=
+          expectsMatchedDigest: true
+        - digest: 7Gbz25Ttp5gIUz3foPSTRIZiatc=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1683824208.027611
+          creationVersion:
+          - 13
+          - 1
+          - 2
+          digest: v/Me0l91+O1PMu+twp0unMG7p+g=
+          expectsMatchedDigest: true
+        - digest: rpjRClGUWvDO3eJI+G1QwPCCr+E=
+          expectsMatchedDigest: true
+        - digest: bNbOb+VwpXL2bpVJ7eGWub8jnfQ=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.8390121
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: G6wi//cxhZnIKdFnlL9vPi0Ez78=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.684911
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: M3KJ94JWvTeti/tjqlGg+PXjbBw=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.981549
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: pPY32MGF+nfTwzFNRibO+pUyF4o=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.6956758
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: 0AgW1CJ8Q1COJdQwsf/R0zFMw5k=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.767046
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: NbipOYSAehGRrfTleM4VDOyUicA=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.814197
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: 3hX1bi5rEldLT+2L1SMG0mdT1zA=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564465.091516
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: zCcpPIGR5914YrBs9gK6bFzpZu8=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564465.18751
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: ZETeW9LrNkqwnUD5tHXgqMzVEfA=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1685564464.9396229
+          creationVersion:
+          - 13
+          - 2
+          - 0
+          digest: dPMWTn0v1kuCIoDKIEhfumKCCXE=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962542.687789
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: 0fXl893MO37ksbZnfhuinomIRag=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962542.712435
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: ufplh4aA1CmBa2mNbYwae0BkK0g=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962568.242002
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: 0MD1yGQuYPfEqrwS1coq99Jr7n0=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962568.310596
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: CmHbfYFBXiFDAh6A7dYNRXcwN6c=
+          expectsMatchedDigest: true
+        - creationTimeIntervalSince1970: 1744962574.9644399
+          creationVersion:
+          - 14
+          - 4
+          - 1
+          digest: YjNGpYZvIuspNAAPawBmfkps8rE=
+          expectsMatchedDigest: true
+      isInCollaborationMode: false

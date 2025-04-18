@@ -1,0 +1,191 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652622'
+      messageInfos:
+      - objectReferences:
+        - '2653033'
+        type: 210
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSK.ViewStateArchive
+      viewStateRoot:
+        identifier: '2653033'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653033'
+      messageInfos:
+      - objectReferences:
+        - '2653034'
+        - '2653035'
+        - '2653036'
+        - '2653037'
+        - '2653038'
+        type: 3
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.UIStateArchive
+      canvasOffset:
+        x: 0.0
+        y: 0.0
+      canvasViewScale: 9.0
+      commentsPrintingToggleEnabled: false
+      desktopActivityStreamViewWidth: 300.0
+      desktopCanvasOffset:
+        x: 0.0
+        y: 0.0
+      desktopCanvasViewScale: 0.5734375
+      desktopElementListViewWidth: 190.0
+      desktopMainContentSize:
+        height: 817.0
+        width: 1241.0
+      desktopMainWindowOrigin:
+        x: 0.0
+        y: 57.0
+      desktopNavigatorViewWidth: 126.0
+      desktopOutlineViewDefaultFixed: true
+      desktopOutlineViewWidth: 270.0
+      desktopPresenterNotesViewHeight: 198.0
+      desktopSlideViewContentFitsWindow: true
+      desktopUiLayout:
+        identifier: '2653037'
+      editingDisabled: false
+      freehandDrawingToolkitState:
+        identifier: '2653038'
+      lightTableHidesSkippedSlides: false
+      lightTableZoomScale: 1.0
+      mobileLightTableHidesSkippedSlides: false
+      mobileLightTableZoomScale: 1.0
+      selectionPath:
+        orderedSelections:
+        - identifier: '2653034'
+        - identifier: '2653035'
+        - identifier: '2653036'
+      showSlideGuides: true
+      showTemplateGuides: false
+      showsComments: true
+      showsMobileLightTable: false
+      showsMobileOutline: false
+      showsRuler: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653034'
+      messageInfos:
+      - type: 219
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSK.DocumentSelectionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653035'
+      messageInfos:
+      - type: 25
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideCollectionSelectionArchive
+      slideNodeToEdit:
+        identifier: '2652149'
+      slideNodes:
+      - identifier: '2652149'
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653036'
+      messageInfos:
+      - type: 24
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.CanvasSelectionArchive
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653037'
+      messageInfos:
+      - type: 23
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.DesktopUILayoutArchive
+      activityStreamVisible: false
+      activityStreamWasVisible: false
+      elementListVisible: false
+      inspectorPaneAutohidden: false
+      inspectorPaneViewMode: kInspectorPaneViewModeFormat
+      inspectorPaneVisible: true
+      lightTableVisible: false
+      notesVisible: false
+      showingTemplateSlides: false
+      sidebarViewMode: kSidebarViewModeNavigator
+      sidebarVisible: true
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653038'
+      messageInfos:
+      - type: 3091
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSD.FreehandDrawingToolkitUIState
+      crayonToolColor:
+        a: 1.0
+        b: 0.263
+        g: 0.2
+        model: rgb
+        r: 0.976
+        rgbspace: srgb
+      crayonToolOpacity: 1.0
+      crayonToolUnscaledWidth: 9.0
+      currentColor:
+        a: 1.0
+        b: 0.984
+        g: 0.494
+        model: rgb
+        r: 0.078
+        rgbspace: srgb
+      eraserToolErasesWholeObjects: false
+      eraserToolScaledWidth: 16.0
+      fillToolColor:
+        a: 1.0
+        b: 0.184
+        g: 0.816
+        model: rgb
+        r: 0.988
+        rgbspace: srgb
+      fillToolOpacity: 1.0
+      mostRecentRestorableToolType: Pen
+      penToolColor:
+        a: 1.0
+        b: 0.984
+        g: 0.494
+        model: rgb
+        r: 0.078
+        rgbspace: srgb
+      penToolOpacity: 1.0
+      penToolUnscaledWidth: 7.0
+      pencilToolColor:
+        a: 1.0
+        b: 0.416
+        g: 0.847
+        model: rgb
+        r: 0.306
+        rgbspace: srgb
+      pencilToolOpacity: 0.5
+      pencilToolUnscaledWidth: 2.0

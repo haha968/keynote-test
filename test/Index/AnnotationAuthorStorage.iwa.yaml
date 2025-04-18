@@ -1,0 +1,13 @@
+chunks:
+- archives:
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2652381'
+      messageInfos:
+      - type: 213
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: TSK.AnnotationAuthorStorageArchive
