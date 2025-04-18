@@ -16,7 +16,7 @@ chunks:
         - '2652381'
         - '2652382'
         - '2652383'
-        - '2652622'
+        - '2655211'
         - '2652384'
         - '2652385'
         type: 1
@@ -279,7 +279,7 @@ chunks:
           useOptimizedTextVerticalAlignment: true
         templateIdentifier: Application/21_BasicWhite/Wide
         viewState:
-          identifier: '2652622'
+          identifier: '2655211'
   - header:
       _pbtype: TSP.ArchiveInfo
       identifier: '2652383'
@@ -317,6 +317,7 @@ chunks:
       messageInfos:
       - objectReferences:
         - '2652149'
+        - '2653449'
         - '2651086'
         - '2652388'
         - '2651093'
@@ -340,6 +341,7 @@ chunks:
       slideTree:
         slides:
         - identifier: '2652149'
+        - identifier: '2653449'
       soundtrack:
         identifier: '2651093'
       stylesheet:
@@ -390,6 +392,51 @@ chunks:
         width: 356.0
       thumbnails:
       - identifier: '9089'
+      thumbnailsAreDirty: false
+  - header:
+      _pbtype: TSP.ArchiveInfo
+      identifier: '2653449'
+      messageInfos:
+      - dataReferences:
+        - '9103'
+        fieldInfos:
+        - path:
+            path:
+            - 27
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        - path:
+            path:
+            - 26
+          unknownFieldRule: IgnoreAndPreserveUntilModified
+        objectReferences:
+        - '2653447'
+        type: 4
+        version:
+        - 1
+        - 0
+        - 5
+    objects:
+    - _pbtype: KN.SlideNodeArchive
+      backgroundIsNoFillOrColorFillWithAlpha: false
+      buildEventCountCacheVersion: 4294967295
+      depth: 1
+      hasBuilds: false
+      hasExplicitBuilds: false
+      hasExplicitBuildsCacheVersion: 2
+      hasNote: false
+      hasTransition: false
+      isSkipped: false
+      isSlideNumberVisible: false
+      slide:
+        identifier: '2653447'
+      templateSlideId:
+        lower: '13496213155936721464'
+        upper: '4165880307802102923'
+      thumbnailSizes:
+      - height: 200.0
+        width: 356.0
+      thumbnails:
+      - identifier: '9103'
       thumbnailsAreDirty: false
   - header:
       _pbtype: TSP.ArchiveInfo
