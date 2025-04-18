@@ -2,10 +2,10 @@ chunks:
 - archives:
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655211'
+      identifier: '2655696'
       messageInfos:
       - objectReferences:
-        - '2655683'
+        - '2655992'
         type: 210
         version:
         - 1
@@ -14,17 +14,17 @@ chunks:
     objects:
     - _pbtype: TSK.ViewStateArchive
       viewStateRoot:
-        identifier: '2655683'
+        identifier: '2655992'
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655683'
+      identifier: '2655992'
       messageInfos:
       - objectReferences:
-        - '2655684'
-        - '2655685'
-        - '2655686'
-        - '2655687'
-        - '2655688'
+        - '2655993'
+        - '2655994'
+        - '2655995'
+        - '2655996'
+        - '2655997'
         type: 3
         version:
         - 1
@@ -55,19 +55,19 @@ chunks:
       desktopPresenterNotesViewHeight: 198.0
       desktopSlideViewContentFitsWindow: true
       desktopUiLayout:
-        identifier: '2655687'
+        identifier: '2655996'
       editingDisabled: false
       freehandDrawingToolkitState:
-        identifier: '2655688'
+        identifier: '2655997'
       lightTableHidesSkippedSlides: false
       lightTableZoomScale: 1.0
       mobileLightTableHidesSkippedSlides: false
       mobileLightTableZoomScale: 1.0
       selectionPath:
         orderedSelections:
-        - identifier: '2655684'
-        - identifier: '2655685'
-        - identifier: '2655686'
+        - identifier: '2655993'
+        - identifier: '2655994'
+        - identifier: '2655995'
       showSlideGuides: true
       showTemplateGuides: false
       showsComments: true
@@ -76,7 +76,7 @@ chunks:
       showsRuler: false
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655684'
+      identifier: '2655993'
       messageInfos:
       - type: 219
         version:
@@ -87,7 +87,7 @@ chunks:
     - _pbtype: TSK.DocumentSelectionArchive
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655685'
+      identifier: '2655994'
       messageInfos:
       - type: 25
         version:
@@ -97,12 +97,12 @@ chunks:
     objects:
     - _pbtype: KN.SlideCollectionSelectionArchive
       slideNodeToEdit:
-        identifier: '2653449'
+        identifier: '2652149'
       slideNodes:
-      - identifier: '2653449'
+      - identifier: '2652149'
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655686'
+      identifier: '2655995'
       messageInfos:
       - type: 24
         version:
@@ -113,7 +113,7 @@ chunks:
     - _pbtype: KN.CanvasSelectionArchive
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655687'
+      identifier: '2655996'
       messageInfos:
       - type: 23
         version:
@@ -135,7 +135,7 @@ chunks:
       sidebarVisible: true
   - header:
       _pbtype: TSP.ArchiveInfo
-      identifier: '2655688'
+      identifier: '2655997'
       messageInfos:
       - type: 3091
         version:
